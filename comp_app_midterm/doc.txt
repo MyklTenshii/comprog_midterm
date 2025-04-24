@@ -1,0 +1,6 @@
+1 JohnDoe 25 True Active
+2 AliceSmith 17 False Pending
+3 BobJihnson 30 True Active
+4 EveDavis 16 False Pending
+5 CharlieBrown 40 True Suspended
+6 DavidWilson 22 False Pending
